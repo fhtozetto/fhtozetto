@@ -13,7 +13,7 @@ Javascript, HTML, CSS, Typescript, React, Node.
 
 ## 📚Aprendendo
 
-Com o Intuido de apareder mais sobre tratamento de dados Machinelearn IA. Atualmente estou cursando na [Asimov](https://asimov.academy/)
+Com o Intuido de apareder mais sobre tratamento de dados, machine learning, IA. Atualmente estou cursando na [Asimov](https://asimov.academy/)
 
 ### Stack
 Python, Pandas, Streamlit, Plotly
