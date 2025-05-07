@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**fhtozetto/fhtozetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Sou formardo na [Uniso](https://uniso.br/) turma de 2005 em sistemas de informação, desde então, continuo me atualizando sobre novas ferramentas e formas de construir soluções com TI. Esses são alguns canais de estudos. 
+- [Cod3r](https://www.cod3r.com.br/)
+- [Rockeseat](https://www.rocketseat.com.br/)
+- [Udemy](https://www.udemy.com/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Habilidades
+Javascript, HTML, CSS, Typescript, React, Node.
+
+
+## 📚Aprendendo
+
+Com o Intuido de apareder mais sobre tratamento de dados Machinelearn IA. Atualmente estou cursando na [Asimov](https://asimov.academy/)
+
+### Stack
+Python, Pandas, Streamlit, Plotly
+
